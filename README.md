@@ -14,13 +14,10 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 ### Problem Statements
 Olist have collected data throughout the year, the data contains seperated information, there are aggregated data, unique data or even combination of both (Aggregated on a unique data). With olist current dataset, it is hard to identify customer behaviour, since it has no representation of customer segments, moreover, even after understanding with segmentation what kind of approach should they take? hence... The questions to be answered in this project:
 
-1. Is there any growing trend on e-commerce sales in Brazil? <br>
-2. How the total sales is concentraded in brazilian states? <br>
-3. What are the best states to do transaction in Brazil? <br>
-4. How payments types can take influence on e-commerce? <br>
-5. How are the behaviour of our customer? <br>
-6. How would you classify them? <br>
-7. How CRM campaign strategy be implemented? <br>
+1. What can we infer from sales history nature when it comes to dictate customers' behaviour? <br>
+2. Why does RFM analysis possibly segregate customers based-on their behaviours? <br>
+3. How to classify when looking up to individual metrics? <br>
+4. What is the next step after knowing the segments? Can we improve the segments?  <br>
 
 ### Objective
 With this project, it is hoped that Olist will be able to classify their customers with the appropriate segmentation.
